@@ -41,4 +41,14 @@ The next step is to build the project using Maven.
 
 ## Eclipse IDE
 
-Once you've done all of that, then see if you can install the project into Eclipse.  You'll see a simple HelloWorld class and a Test which 'cheats' and just says "Yes I pass"!
+Once you've done all of that, then see if you can install the project into Eclipse. You'll see a simple `HelloWorld` class and a Test which 'cheats' and just says "Yes I pass"!
+
+# First Tasks
+
+In order to get you comfortable with the Maven build file I've listed a few issues in GitHub for people to work on. Simply:
+
+1. Do the research, use Google and the Maven project page!
+1. Make the changes in your local `pom.xml`
+1. Test the changes by running `mvn clean install site`
+1. If it's all OK then commit your changes, push to your remote repository and submit a Pull Request
+
